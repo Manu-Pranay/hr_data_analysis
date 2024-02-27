@@ -11,3 +11,4 @@ Repository includes HR data with 22,000 records spanning 2000-2020 for comprehen
 
 # Data Visualization:
 Data visualization was done using Power BI Desktop In a corporate setting. Results can be shared online on www.powerbi.com for seamless collaboration and insights dissemination.
+![Page1](https://github.com/Manu-Pranay/hr_data_analysis/blob/main/Page%201.png)
